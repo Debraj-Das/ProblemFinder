@@ -1,3 +1,7 @@
+## Description
+This is a search engine that finds the top matching programming problems from Codeforces and Leetcode, aimed at helping users
+efficiently locate relevant practice problems.
+
 ## setup the Projects
 1. clone the reprojectory
 ```bash
